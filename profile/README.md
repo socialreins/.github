@@ -1,4 +1,6 @@
-# SocialReins
+<p align="center"><img src="https://raw.githubusercontent.com/socialreins/.github/main/brand/logo.svg" width="96" height="96" alt="SocialReins logo"></p>
+
+<h1 align="center">SocialReins</h1>
 
 SocialReins is an open-source social media manager. Write a post once, send it to every platform, and pull it back from all of them when you need to.
 

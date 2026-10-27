@@ -1,4 +1,6 @@
-# SocialReins
+<p align="center"><img src="https://raw.githubusercontent.com/socialreins/.github/main/brand/logo.svg" width="96" height="96" alt="SocialReins logo"></p>
+
+<h1 align="center">SocialReins</h1>
 
 SocialReins is an open-source social media manager. Write a post once, send it to every platform, and pull it back from all of them when you need to.
 
@@ -77,4 +79,4 @@ Rather not run servers? Join the waitlist at [socialreins.com](https://socialrei
 
 ## About this repo
 
-This repo holds organization-wide files. `profile/README.md` is the profile shown on [github.com/socialreins](https://github.com/socialreins) (keep it in sync with this README). `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md` and the issue templates in `.github/ISSUE_TEMPLATE/` are the defaults for every repo in the org that has none of its own.
+This repo holds organization-wide files. `brand/` holds the logo and brand files. `profile/README.md` is the profile shown on [github.com/socialreins](https://github.com/socialreins) (keep it in sync with this README). `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md` and the issue templates in `.github/ISSUE_TEMPLATE/` are the defaults for every repo in the org that has none of its own.
