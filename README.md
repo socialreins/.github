@@ -4,7 +4,9 @@ SocialReins is an open-source social media manager. Write a post once, send it t
 
 ⭐ **If SocialReins looks useful, star [socialreins/web](https://github.com/socialreins/web) and [socialreins/brain](https://github.com/socialreins/brain).** Stars help other people find the project and tell us it is worth building.
 
-## What it does
+## What it will do
+
+These are being built now (see Status below).
 
 - **Publish and schedule** to Facebook Pages, Instagram, Threads, LinkedIn, Bluesky and X, now or at a time you pick.
 - **Take posts down everywhere** a post went out, in one step.
@@ -49,7 +51,7 @@ npm ci
 npm run dev                           # http://localhost:3000
 ```
 
-Open http://localhost:3000. The waitlist form talks to your local brain, which already allows requests from `http://localhost:3000`.
+Open http://localhost:3000. Today that is the landing page and the waitlist; the app arrives as features ship. The waitlist form talks to your local brain, which already allows requests from `http://localhost:3000`.
 
 Each repo's README lists its tests, checks and environment variables.
 
